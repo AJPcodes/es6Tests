@@ -1,0 +1,22 @@
+{
+  "name": "es6-tests",
+  "version": "1.0.0",
+  "description": "Leaning ES6 through testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJPcodes/es6Tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJPcodes/es6Tests/issues"
+  },
+  "homepage": "https://github.com/AJPcodes/es6Tests#readme"
+}

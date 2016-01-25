@@ -1,2 +1,2 @@
-# es6Tests
+# ES6Tests
 Leaning ES6 through testing
