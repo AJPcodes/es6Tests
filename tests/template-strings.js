@@ -5,3 +5,10 @@ describe('test suite', function(){
     expect(true).to.be.true;
   });
 });
+
+describe('template strings', function() {
+  it('should be a string', function () {
+    var string = `string`;
+    expect(string).to.be.a('string');
+  });
+});
